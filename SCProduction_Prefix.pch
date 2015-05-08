@@ -1,0 +1,16 @@
+//
+// Prefix header for all source files of the 'SCProduction' target in the 'SCProduction' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#define degreesToRadian(x) (M_PI * (x) / 180.0)
+	#define rotateDuration 0.5
+#endif
+#import "UIWindow+Shake.h"
+#import "AppDelegate_Phone.h"
+#import "AppDelegate_Pad.h"
+#import "Favorites.h"
+#define isIPad ([[UIDevice currentDevice] respondsToSelector:@selector(userInterfaceIdiom)] && [[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad)
+#import "AudioPlayer.h"

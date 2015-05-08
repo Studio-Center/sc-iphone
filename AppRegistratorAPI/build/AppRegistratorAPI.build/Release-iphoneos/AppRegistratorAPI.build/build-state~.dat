@@ -1,0 +1,551 @@
+TAppRegistratorAPI
+v7
+r0
+t306331922.236573
+cCheck dependencies
+cProcessPCH /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch.gch AppRegistratorAPI_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch.gch AppRegistratorAPI_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a normal armv6
+cCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a normal armv7
+cCreateUniversalBinary /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C5A53C10000000000000110
+t1280988097
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/execinfo.h
+c000000004B9F135D00000000000004BE
+t1268716381
+s1214
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/libkern/OSAtomic.h
+c000000004B9F135D0000000000002519
+t1268716381
+s9497
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch
+c000000004C4C73DB000000000000011C
+t1280078811
+s284
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.h
+c000000004C4BFE1500000000000001EA
+t1280048661
+s490
+i<Foundation/Foundation.h>
+i"UncaughtExceptionHandler.h"
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m
+c000000004C4C73420000000000000C2F
+t1280078658
+s3119
+i"NetExceptionLogger.h"
+i"ScreenshotProvider.h"
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.h
+c000000004C4B274300000000000001D4
+t1279993667
+s468
+i<Foundation/Foundation.h>
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m
+c000000004C4B8730000000000000053C
+t1280018224
+s1340
+i"ScreenshotProvider.h"
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.h
+c000000004C4B1B2C0000000000000653
+t1279990572
+s1619
+i<UIKit/UIKit.h>
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m
+c000000004C4B86500000000000001CCE
+t1280018000
+s7374
+i"UncaughtExceptionHandler.h"
+i"NetExceptionLogger.h"
+i<libkern/OSAtomic.h>
+i<execinfo.h>
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/AppRegistratorAPI.LinkFileList
+c000000004C74510600000000000001FE
+t1282691334
+s510
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o
+t1282691335
+s16640
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o
+t1282691335
+s17504
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o
+t1282691335
+s39896
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a
+t1282691335
+s75728
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/AppRegistratorAPI.LinkFileList
+c000000004C74510600000000000001FE
+t1282691334
+s510
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o
+t1282691335
+s16604
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o
+t1282691335
+s17352
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o
+t1282691335
+s39600
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a
+t1282691335
+s75248
+
+N/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a
+t1282691335
+s151024
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch
+c000000004C4C73DB000000000000011C
+t1280078811
+s284
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.h
+c000000004C4BFE1500000000000001EA
+t1280048661
+s490
+i<Foundation/Foundation.h>
+i"UncaughtExceptionHandler.h"
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m
+c000000004C4C73420000000000000C2F
+t1280078658
+s3119
+i"NetExceptionLogger.h"
+i"ScreenshotProvider.h"
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.h
+c000000004C4B274300000000000001D4
+t1279993667
+s468
+i<Foundation/Foundation.h>
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m
+c000000004C8F58F8000000000000053C
+t1284462840
+s1340
+i"ScreenshotProvider.h"
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.h
+c000000004C4B1B2C0000000000000653
+t1279990572
+s1619
+i<UIKit/UIKit.h>
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m
+c000000004C4B86500000000000001CCE
+t1280018000
+s7374
+i"UncaughtExceptionHandler.h"
+i"NetExceptionLogger.h"
+i<libkern/OSAtomic.h>
+i<execinfo.h>
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/AppRegistratorAPI.LinkFileList
+c000000004C920990000000000000020A
+t1284639120
+s522
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o
+t1284639121
+s16436
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o
+t1284639121
+s17368
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o
+t1284639121
+s39692
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a
+t1284639121
+s75192
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/AppRegistratorAPI.LinkFileList
+c000000004C920990000000000000020A
+t1284639120
+s522
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o
+t1284639122
+s16400
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o
+t1284639121
+s17216
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o
+t1284639121
+s39396
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a
+t1284639122
+s74704
+
+N/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a
+t1284639122
+s149944
+
+N/var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch.gch
+t1282691334
+s9233044
+
+N/var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch.gch
+t1282691334
+s8774292
+
+N/var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch.gch
+t1284639120
+s8774292
+
+N/var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch.gch
+t1284639121
+s9233044
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306331920#306331920#0(0"0(0#1#0"8598924672#0"0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304384135.006063
+e304384135.265853
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m304384135#304384135#0(0"0(0#0#75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m4715954305452110848#2126"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s306331921.411145
+e306331921.521066
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m306331921#306331921#0(0"0(0#0#79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m4715954305452110848#2170"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/NetExceptionLogger.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304384134.907940
+e304384135.005957
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)
+lSLF07#2@83"Compile /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m304384134#304384135#0(631"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)2(22@35"No '-renderInContext:' method found304384134#130#125#0(6@75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m301711024#19#0#19#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)304384134#255#135#0(6@75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m301711024#19#0#19#0#0"0(0#0#75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m8603831136#2126"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s306331921.073144
+e306331921.411033
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)
+lSLF07#2@87"Compile /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m306331921#306331921#0(651"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)2(22@35"No '-renderInContext:' method found306331921#134#129#0(6@79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m306155640#19#0#19#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306331921#263#139#0(6@79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m306155640#19#0#19#0#0"0(0#0#79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m8610591776#2170"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/ScreenshotProvider.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304384134.909030
+e304384135.266098
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m304384134#304384135#0(0"0(0#0#81"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m8603624960#2138"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s306331921.074504
+e306331921.592170
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m306331921#306331921#0(0"0(0#0#85"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m8610223424#2182"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/UncaughtExceptionHandler.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304384135.390679
+e304384135.518959
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m304384135#304384135#0(0"0(0#0#75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m8604460768#2126"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306331921.875145
+e306331922.001914
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m306331921#306331922#0(0"0(0#0#79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m8619998176#2170"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/NetExceptionLogger.m -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/NetExceptionLogger.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304384135.267270
+e304384135.389940
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept
+o/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)
+lSLF07#2@83"Compile /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m304384135#304384135#0(631"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)2(22@35"No '-renderInContext:' method found304384135#130#125#0(6@75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m301711024#19#0#19#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)304384135#255#135#0(6@75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m301711024#19#0#19#0#0"0(0#0#75"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m8615279584#2126"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306331921.521194
+e306331921.646748
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept
+o/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)
+lSLF07#2@87"Compile /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m306331921#306331921#0(651"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m: In function '-[ScreenshotProvider takeAScreenShot]':/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: no '-renderInContext:' method found/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: (Messages without a matching method signature/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: will be assumed to return 'id' and accept/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m:19: warning: '...' as arguments.)2(22@35"No '-renderInContext:' method found306331921#134#129#0(6@79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m306155640#19#0#19#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306331921#263#139#0(6@79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m306155640#19#0#19#0#0"0(0#0#79"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m8612954720#2170"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/ScreenshotProvider.m -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/ScreenshotProvider.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304384135.289501
+e304384135.612896
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m304384135#304384135#0(0"0(0#0#81"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m8620177664#2138"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o0#
+
+CCompileC build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306331921.646940
+e306331921.948871
+r1
+xCompileC
+xbuild/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m306331921#306331921#0(0"0(0#0#85"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m8610016704#2182"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -include /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/UncaughtExceptionHandler.m -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/UncaughtExceptionHandler.o0#
+
+CCreateUniversalBinary /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a normal "armv6 armv7"
+s304384135.619275
+e304384135.637436
+r1
+xCreateUniversalBinary
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a
+xnormal
+xarmv6 armv7
+lSLF07#2@88"CreateUniversalBinary build/Release-iphoneos/libAppRegistratorAPI.a normal "armv6 armv7"304384135#304384135#0(0"0(0#0#66"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/armv6 armv78612036032#707"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a0#
+
+CCreateUniversalBinary /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a normal "armv6 armv7"
+s306331922.043005
+e306331922.236514
+r1
+xCreateUniversalBinary
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a
+xnormal
+xarmv6 armv7
+lSLF07#2@88"CreateUniversalBinary build/Release-iphoneos/libAppRegistratorAPI.a normal "armv6 armv7"306331922#306331922#0(0"0(0#0#70"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/armv6 armv78612786656#723"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/libAppRegistratorAPI.a0#
+
+CLibtool /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a normal armv6
+s304384135.266228
+e304384135.289392
+r1
+xLibtool
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@135"Libtool build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a normal armv6304384135#304384135#0(237"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8620269824#883"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -filelist /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/AppRegistratorAPI.LinkFileList -all_load -ObjC -framework Foundation -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a0#
+
+CLibtool /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a normal armv7
+s304384135.613099
+e304384135.619174
+r1
+xLibtool
+x/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@135"Libtool build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a normal armv7304384135#304384135#0(237"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8621606080#883"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -filelist /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/AppRegistratorAPI.LinkFileList -all_load -ObjC -framework Foundation -o /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a0#
+
+CLibtool /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a normal armv6
+s306331921.592272
+e306331921.875034
+r1
+xLibtool
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@135"Libtool build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a normal armv6306331921#306331921#0(237"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8610478016#899"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -filelist /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/AppRegistratorAPI.LinkFileList -all_load -ObjC -framework Foundation -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv6/libAppRegistratorAPI.a0#
+
+CLibtool /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a normal armv7
+s306331922.002007
+e306331922.042886
+r1
+xLibtool
+x/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@135"Libtool build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a normal armv7306331922#306331922#0(237"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8619049792#899"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -filelist /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/AppRegistratorAPI.LinkFileList -all_load -ObjC -framework Foundation -o /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/Objects-normal/armv7/libAppRegistratorAPI.a0#
+
+CProcessPCH /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch.gch AppRegistratorAPI_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304384134.071997
+e304384134.907832
+r1
+xProcessPCH
+x/var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch.gch
+xAppRegistratorAPI_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile AppRegistratorAPI_Prefix.pch304384134#304384134#0(0"0(0#0#83"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch8603188256#1968"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch -o /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-cszgsdklojewameeqienzmbfiapy/AppRegistratorAPI_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch.gch AppRegistratorAPI_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304384134.070829
+e304384134.836873
+r1
+xProcessPCH
+x/var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch.gch
+xAppRegistratorAPI_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile AppRegistratorAPI_Prefix.pch304384134#304384134#0(0"0(0#0#83"/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch8247343714165675008#1968"    cd /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -c /Users/zen/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch -o /var/folders/L+/L+zEybRBHBSVca3120aZ4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-dqazmnfpqqsdghannqlnhskfsoik/AppRegistratorAPI_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch.gch AppRegistratorAPI_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s306331920.105165
+e306331920.976068
+r1
+xProcessPCH
+x/var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch.gch
+xAppRegistratorAPI_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile AppRegistratorAPI_Prefix.pch306331920#306331920#0(0"0(0#0#87"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch8247343714165675008#2008"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv6 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch -o /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-ekldotmwighpjlekqragaqmweldi/AppRegistratorAPI_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch.gch AppRegistratorAPI_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s306331920.117051
+e306331921.073032
+r1
+xProcessPCH
+x/var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch.gch
+xAppRegistratorAPI_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile AppRegistratorAPI_Prefix.pch306331920#306331921#0(0"0(0#0#87"/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch8614165600#2008"    cd /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-generated-files.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-own-target-headers.hmap -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-all-target-headers.hmap -iquote /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/AppRegistratorAPI-project-headers.hmap -F/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/Release-iphoneos/include -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources/armv7 -I/Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/build/AppRegistratorAPI.build/Release-iphoneos/AppRegistratorAPI.build/DerivedSources -c /Volumes/stuff/Work/Dimalex/SCProduction/AppRegistratorAPI/AppRegistratorAPI_Prefix.pch -o /var/folders/h1/h1PSJvo0GPWcOpExCtpD2k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppRegistratorAPI_Prefix-flcobpscmzqjsxffshmgzibxjekl/AppRegistratorAPI_Prefix.pch.gch0#
+

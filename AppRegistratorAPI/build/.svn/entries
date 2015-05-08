@@ -1,0 +1,43 @@
+10
+
+dir
+11
+https://admin@www.studiocenter.com/svn/SC/iphone/SCProduction/SCProduction/AppRegistratorAPI/build
+https://admin@www.studiocenter.com/svn/SC
+
+
+
+2011-03-08T21:56:47.902929Z
+11
+admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fabd2193-96e1-ec4e-9111-75721d58d79f
+
+Release-iphonesimulator
+dir
+
+Release-iphoneos
+dir
+
+Debug-iphonesimulator
+dir
+
+Debug-iphoneos
+dir
+
+AppRegistratorAPI.build
+dir
+
